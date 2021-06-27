@@ -1,0 +1,28 @@
+@media (max-width:992px){
+    .bannar__text {
+        padding-top: 30px;
+    }
+
+    .services__content {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width:768px){
+    .about__section {
+        margin-top: 170px;
+    }
+    .navbar.navbar-expand-lg.navbar-light.border-bottom.fixed-top.bg-white {
+        position: inherit;
+    }
+    .bannar__section{
+        margin-top: 0;
+    }
+}
+
+@media (max-width:576px){
+    .bannar__btn{
+        width: 48%;
+        text-align: center !important;
+    }
+}
